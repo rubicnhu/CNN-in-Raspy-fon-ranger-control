@@ -1,0 +1,8 @@
+/home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles/install/local.dir
+/home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles/install.dir
+/home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles/list_install_components.dir
+/home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles/rebuild_cache.dir
+/home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles/edit_cache.dir
+/home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles/vo_epipolar_imgs.dir
+/home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles/install/strip.dir
+/home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles/vo_epipolar.dir

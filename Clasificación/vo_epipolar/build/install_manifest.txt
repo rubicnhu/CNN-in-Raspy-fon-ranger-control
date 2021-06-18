@@ -1,0 +1,2 @@
+/home/ruben/vo_epipolar/bin/vo_epipolar
+/home/ruben/vo_epipolar/bin/vo_epipolar_imgs

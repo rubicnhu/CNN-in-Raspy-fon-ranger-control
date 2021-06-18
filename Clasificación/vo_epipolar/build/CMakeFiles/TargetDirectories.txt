@@ -1,0 +1,8 @@
+/home/ruben/vo_epipolar/build/CMakeFiles/install/local.dir
+/home/ruben/vo_epipolar/build/CMakeFiles/install.dir
+/home/ruben/vo_epipolar/build/CMakeFiles/list_install_components.dir
+/home/ruben/vo_epipolar/build/CMakeFiles/rebuild_cache.dir
+/home/ruben/vo_epipolar/build/CMakeFiles/edit_cache.dir
+/home/ruben/vo_epipolar/build/CMakeFiles/vo_epipolar_imgs.dir
+/home/ruben/vo_epipolar/build/CMakeFiles/install/strip.dir
+/home/ruben/vo_epipolar/build/CMakeFiles/vo_epipolar.dir
