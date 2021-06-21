@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ruben/Escritorio/vo_epipolar_regresion
+CMAKE_SOURCE_DIR = /home/ruben/vo_epipolar
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ruben/Escritorio/vo_epipolar_regresion/build
+CMAKE_BINARY_DIR = /home/ruben/vo_epipolar/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,9 +126,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles /home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ruben/vo_epipolar/build/CMakeFiles /home/ruben/vo_epipolar/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ruben/Escritorio/vo_epipolar_regresion/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ruben/vo_epipolar/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
